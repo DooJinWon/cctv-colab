@@ -1,0 +1,7 @@
+# PyTorch/torchvision are supplied by Colab's runtime; pip resolves them elsewhere.
+ultralytics==8.3.241
+opencv-python==4.11.0.86
+lap==0.5.13
+ipywidgets==8.1.9
+tqdm>=4.66,<5
+Pillow>=10,<13
